@@ -1,0 +1,9 @@
+{
+	"name": "sahil-dfazureproject",
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "6842fae6-045d-4277-b0de-014bbae317fa",
+		"tenantId": "54c121f0-32f6-40bf-ad36-a976120fbdc3"
+	}
+}
